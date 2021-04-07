@@ -1,0 +1,8 @@
+The rest of the codebook you can find in the .zip file.
+
+Freshly added varibles:
+
+Subject: numeric id of the participants [1:30]
+activity_num: numeric id of the activity [1:6]
+activity_label: the names of the activity, extracted from 'activity_labels.txt'
+Activity: see 'activity_label'
